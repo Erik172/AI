@@ -1,0 +1,11 @@
+data/
+folder/
+*.zip
+*.tar.gz
+*.tar.bz2
+*.tar.xz
+*.tar.lz
+*.tar.lzma
+*.tar.lzo
+*.h5
+*.tflite
